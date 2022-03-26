@@ -6,7 +6,7 @@
 <code>flutter build [windows|macos]</code>
 
 ## Сборка для linux
-<code>flutter build linux --release
+<code>flutter build linux --release \n
 ldd build/linux/release/bundle/linux_desktop_test</code>
 
 ## Зависимости для linux 

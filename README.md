@@ -9,5 +9,5 @@
 libgtk-3-0 libblkid1 liblzma5
 
 
-- [x] Marked
-- [ ] Unmarked
+- [x] test
+- [ ] tset
